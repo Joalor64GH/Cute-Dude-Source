@@ -1,2 +1,2 @@
 # Cute Dude Skin Pack
-The original release, but source-coded!
+This is still a WIP, so stay tuned for the updates!
