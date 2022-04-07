@@ -1,2 +1,2 @@
 # Cute Dude Skin Pack
-This is still a WIP, so stay tuned for the updates!
+This source code is still a WIP, so stay tuned for the updates!
