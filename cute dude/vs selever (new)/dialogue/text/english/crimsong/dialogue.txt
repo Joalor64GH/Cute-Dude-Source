@@ -1,0 +1,14 @@
+L|selever|Hmm..this is interesting.
+R|bf|What?
+L|selever|Got some new song or smth.
+L|selever:smug|Wanna listen to some tunes?
+R|bf:happy|Funny rap or noob.
+L|selever:moody|... 
+L|selever:angry|W H A T?
+R|bf|Funny rap
+R|bf|or
+R|bf|noob
+L|selever:moody|... When will you learn...
+L|selever:moody|...WHEN will you LEARN...
+L|selever:angry|THAT YOUR ACTIONS HAVE CONSEQUENCES?!!?!!?
+R|bf:oops|o no not again

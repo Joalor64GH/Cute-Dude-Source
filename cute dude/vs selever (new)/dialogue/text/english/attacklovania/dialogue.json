@@ -1,0 +1,32 @@
+{
+	"dialogue": [
+		{
+			"expression": "upset",
+			"text": "And why do I have a cover of Megalovania as a song?",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "selever"
+		},
+		{
+			"expression": "default",
+			"text": "Idk man lol",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "upset",
+			"text": "That's a little dumb, tbh. But, let's see what this is about.",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "selever"
+		},
+		{
+			"expression": "default",
+			"text": "Ok, sure. :)",
+			"boxState": "normal",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

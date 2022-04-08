@@ -1,0 +1,31 @@
+{
+	"storyName": "Epic Bonus",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "iglesia_week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "Selever 2",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"SL_A_Color",
+		"BF_Color",
+		"GF_Color"
+	],
+	"songs": [
+		[
+			"Crimsong",
+			"Selever_Angry",
+			[
+				130,
+				35,
+				219
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "You is done for"
+}

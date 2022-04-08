@@ -1,0 +1,4 @@
+L|selever:weary|Okay...*pants* Happy?
+R|bf:oops|Ummm......yep.
+L|selever:upset|Good. Now please leave.
+L|selever|TTYL, bro.

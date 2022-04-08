@@ -1,0 +1,49 @@
+{
+	"storyName": "VS Cute Dude",
+	"difficulties": "Normal,Hard",
+	"hideFreeplay": false,
+	"weekBackground": "iglesia_week",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"songs": [
+		[
+			"Demonila",
+			"Selever",
+			[
+				90,
+				35,
+				79
+			]
+		],
+		[
+			"Casanova",
+			"Selever",
+			[
+				90,
+				35,
+				79
+			]
+		],
+		[
+			"Attack",
+			"Selever_Angry",
+			[
+				195,
+				0,
+				60
+			]
+		]
+	],
+	"weekCharacters": [
+		"SL_Color",
+		"BF_Color",
+		"GF_Color"
+	],
+	"weekName": "VS The Freakin Cute Dude"
+}

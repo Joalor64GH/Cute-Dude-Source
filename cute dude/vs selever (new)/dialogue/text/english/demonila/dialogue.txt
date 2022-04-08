@@ -1,0 +1,14 @@
+L|selever:laugh|APRIL FOO-
+L|selever:moody|Wait. It isn't April Fools.
+L|selever:smug|So... whatcha doin here, stickboy?
+R|bf|We got dialogue now. Also I wanna funny rap.
+L|selever:smug|That's cool. Also, this might be your lucky day.
+L|selever:smile|Some random people decided to compose new songs for me, and someone decided to make a reskin of me for a mod or something.
+L|selever|I guess it happened since you came here.
+L|selever:smug|The stuff people do just for views...
+R|bf:happy|Really?
+L|selever|Yeah, new songs and a reskin.
+L|selever|I'm not gonna go hard on you just yet so...
+L|selever|Wanna have a warmup?
+R|bf:happy|Yea sure.
+L|selever|Alrighty then.
