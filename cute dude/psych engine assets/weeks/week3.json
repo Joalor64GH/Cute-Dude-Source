@@ -1,0 +1,48 @@
+{
+	"storyName": "It's me, the creator!",
+	"hideFreeplay": false,
+	"weekBackground": "philly",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"pico",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Pico",
+			"pico",
+			[
+				20,
+				40,
+				255
+			]
+		],
+		[
+			"Philly-Nice",
+			"pico",
+			[
+				20,
+				40,
+				255
+			]
+		],
+		[
+			"Blammed",
+			"pico",
+			[
+				20,
+				40,
+				255
+			]
+		]
+	],
+	"weekName": "Hi! I'm the Creator!"
+}

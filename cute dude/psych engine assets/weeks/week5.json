@@ -1,0 +1,48 @@
+{
+	"storyName": "Christmas??",
+	"hideFreeplay": false,
+	"weekBackground": "christmas",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"parents-christmas",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Cocoa",
+			"parents",
+			[
+				255,
+				155,
+				155
+			]
+		],
+		[
+			"Eggnog",
+			"parents",
+			[
+				255,
+				155,
+				155
+			]
+		],
+		[
+			"Winter-Horrorland",
+			"monster",
+			[
+				175,
+				0,
+				133
+			]
+		]
+	],
+	"weekName": "This ain't jolly"
+}

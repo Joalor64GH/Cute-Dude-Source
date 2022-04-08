@@ -1,0 +1,30 @@
+{
+	"storyName": "How to Be a Funky Pro",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Tutorial",
+			"gf",
+			[
+				166,
+				113,
+				33
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "How to Funk Like a Pro"
+}

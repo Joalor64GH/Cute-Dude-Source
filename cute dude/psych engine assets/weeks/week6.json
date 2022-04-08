@@ -1,0 +1,48 @@
+{
+	"storyName": "Love is Like a Fart",
+	"hideFreeplay": false,
+	"weekBackground": "school",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"senpai",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Senpai",
+			"senpai-pixel",
+			[
+				255,
+				140,
+				40
+			]
+		],
+		[
+			"Roses",
+			"senpai-pixel",
+			[
+				140,
+				80,
+				20
+			]
+		],
+		[
+			"Thorns",
+			"spirit-pixel",
+			[
+				140,
+				20,
+				20
+			]
+		]
+	],
+	"weekName": "I love you...as a friend"
+}

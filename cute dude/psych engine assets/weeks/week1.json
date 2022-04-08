@@ -1,0 +1,57 @@
+{
+	"storyName": "Sprout Thingy",
+	"hideFreeplay": false,
+	"weekBackground": "stage",
+	"weekBefore": "tutorial",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"startUnlocked": true,
+	"songs": [
+		[
+			"Bopeebo",
+			"dad",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"Fresh",
+			"dad",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"Dad-Battle",
+			"dad",
+			[
+				146,
+				0,
+				253
+			]
+		],
+		[
+			"Hot-Dilf",
+			"dad",
+			[
+				146,
+				0,
+				253
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"dad",
+		"bf",
+		"gf"
+	],
+	"weekName": "Sprout Thingy"
+}

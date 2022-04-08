@@ -1,0 +1,48 @@
+{
+	"storyName": "Magic Scares",
+	"hideFreeplay": false,
+	"weekBackground": "halloween",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"hideStoryMode": false,
+	"weekCharacters": [
+		"spooky",
+		"bf",
+		"gf"
+	],
+	"songs": [
+		[
+			"Spookeez",
+			"spooky",
+			[
+				0,
+				73,
+				40
+			]
+		],
+		[
+			"South",
+			"spooky",
+			[
+				0,
+				73,
+				40
+			]
+		],
+		[
+			"Monster",
+			"monster",
+			[
+				60,
+				0,
+				40
+			]
+		]
+	],
+	"weekName": "Magic Scares"
+}
