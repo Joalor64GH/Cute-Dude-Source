@@ -1,0 +1,5 @@
+Tutorial:gf:1
+Consequential:coralie:1
+Dyspeptic:coralie:1
+Non Compos Mentis:coralie-tired:1
+Antagonized:coralie-tired:1
