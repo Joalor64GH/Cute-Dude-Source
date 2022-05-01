@@ -1,0 +1,76 @@
+{
+	"dialogue": [
+		{
+			"expression": "concern",
+			"text": "krusVoice11;S-so.. Much profanity..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "plotting",
+			"text": "hunk;Hahaha! I like this kid. Say, how about you have a 'rap' with Inverted Hunk right here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "concern",
+			"text": "krusVoice12;(..Inverted Hunk?)",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "excited",
+			"text": "Boop beep!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "peeved",
+			"text": "krusVoice13;I can't possibly sing something so vulgar!",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "genuine",
+			"text": "fromyourhead;Then just sing something from your head.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "sweetmama",
+			"text": "watching;I'll be watching..~",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "concern",
+			"text": "krusVoice14;I-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "poker",
+			"text": "krusVoice15;Ahem. Sure, I can do that.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "krusport"
+		}
+	]
+}

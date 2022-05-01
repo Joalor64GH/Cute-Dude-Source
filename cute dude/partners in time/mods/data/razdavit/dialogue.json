@@ -1,0 +1,188 @@
+{
+	"dialogue": [
+		{
+			"expression": "fullbody",
+			"text": "selVoice1;We're back! And we-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "what",
+			"text": "selVoice2;WHAT THE HECK-",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.025,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "peeved",
+			"text": "krusVoice16;LANGUAGE, Savage Dude!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "uh",
+			"text": "selVoice3;Yeah yeah, screw you too.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "what",
+			"text": "selVoice4;BUT WHY THE HECKLANDS IS ROACHY HERE?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "talk",
+			"text": "rasVoice1;Sigh.. Even getting rid of Boyfriend was difficult for you..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rasazy"
+		},
+		{
+			"expression": "ugh",
+			"text": "selVoice5;HEY! I did my job right when I took down the u-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "poker",
+			"text": "settledown;Alright, alright. Settle down now you two. Me and my boyfriend don't want another fight.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "ugh",
+			"text": "selVoice6;Tch..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "uh",
+			"text": "selVoice7;Yeah, yeah.. Ok.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "talk",
+			"text": "rasVoice2;..How did he even get here..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "rasazy"
+		},
+		{
+			"expression": "talk",
+			"text": "krusVoice17;I.. Don't know. He just arrived suddenly, and we were hoping you and Savage Dude could bring him back the regular world.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.06,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "smug",
+			"text": "selVoice8;Guess it was his plotarmor or some nonsense.. But alright, seems easy enough.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "laugh",
+			"text": "selVoice9;KEKEKEKE!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "laugh",
+			"text": "selVoice10;C'MERE ROACHY!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "shocked",
+			"text": "BEEEEEEPP!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf"
+		},
+		{
+			"expression": "pissedmama",
+			"text": "beaten;HEY! I haven't even beaten that little [dog doodoo] in a rap battle yet!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "laugh",
+			"text": "selVoice11;Wait, this little dummy asked for a rap battle AGAIN?!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.045,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "ugh",
+			"text": "selVoice12;Frickin' course he did.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "seleverpit"
+		},
+		{
+			"expression": "ugh",
+			"text": "selVoice13;Fine then. I'll let this little turd stay for a little bit longer.. But only because I wanna see how you go against our friend.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "seleverpit"
+		},
+		{
+			"expression": "smug",
+			"text": "selVoice14;Kekeke...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.065,
+			"portrait": "seleverpit"
+		},
+		{
+			"expression": "laugh",
+			"text": "selVoice15;GIVE HIM [the definition of trying to compile Forever Engine by Yoshubs]!!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "seleverPIT"
+		},
+		{
+			"expression": "talk",
+			"text": "blah blah blah coolswag",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		}
+	]
+}

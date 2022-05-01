@@ -1,0 +1,59 @@
+{
+	"storyName": "Partners In Time",
+	"difficulties": "Hard",
+	"hideFreeplay": false,
+	"weekBackground": "weekPIT",
+	"freeplayColor": [
+		146,
+		113,
+		253
+	],
+	"weekBefore": "tutorial",
+	"startUnlocked": true,
+	"weekCharacters": [
+		"",
+		"",
+		""
+	],
+	"songs": [
+		[
+			"Bust",
+			"bf",
+			[
+				255,
+				255,
+				255
+			]
+		],
+		[
+			"Strazh",
+			"krus",
+			[
+				60,
+				40,
+				80
+			]
+		],
+		[
+			"Zilt",
+			"rsch",
+			[
+				80,
+				0,
+				255
+			]
+		],
+		[
+			"Razdavit",
+			"rsch",
+			[
+				80,
+				0,
+				255
+			]
+		]
+	],
+	"hideStoryMode": false,
+	"weekName": "Partners In Time",
+	"hiddenUntilUnlocked": false
+}

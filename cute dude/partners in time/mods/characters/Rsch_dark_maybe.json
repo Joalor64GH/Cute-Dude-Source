@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "idle",
+			"indices": [],
+			"name": "rsch idle"
+		},
+		{
+			"offsets": [
+				20,
+				-3
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singLEFT",
+			"indices": [],
+			"name": "rsch left"
+		},
+		{
+			"offsets": [
+				29,
+				-29
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singRIGHT",
+			"indices": [],
+			"name": "rsch right"
+		},
+		{
+			"offsets": [
+				-41,
+				-37
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singDOWN",
+			"indices": [],
+			"name": "rsch down"
+		},
+		{
+			"offsets": [
+				-27,
+				13
+			],
+			"loop": false,
+			"fps": 24,
+			"anim": "singUP",
+			"indices": [],
+			"name": "rsch up"
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/rschvania_assets",
+	"position": [
+		-200,
+		-250
+	],
+	"healthicon": "rsch",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		255
+	],
+	"camera_position": [
+		0,
+		50
+	],
+	"sing_duration": 4,
+	"scale": 0.9
+}

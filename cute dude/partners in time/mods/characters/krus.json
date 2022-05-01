@@ -1,0 +1,78 @@
+{
+	"animations": [
+		{
+			"offsets": [
+				1,
+				0
+			],
+			"loop": false,
+			"anim": "singLEFT",
+			"fps": 24,
+			"name": "Dilf left",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "singDOWN",
+			"fps": 24,
+			"name": "Dilf down",
+			"indices": []
+		},
+		{
+			"offsets": [
+				1,
+				1
+			],
+			"loop": false,
+			"anim": "singUP",
+			"fps": 24,
+			"name": "Dilf up",
+			"indices": []
+		},
+		{
+			"offsets": [
+				-120,
+				-3
+			],
+			"loop": false,
+			"anim": "singRIGHT",
+			"fps": 24,
+			"name": "Dilf right",
+			"indices": []
+		},
+		{
+			"offsets": [
+				0,
+				0
+			],
+			"loop": false,
+			"anim": "idle",
+			"fps": 24,
+			"name": "Dilf idle",
+			"indices": []
+		}
+	],
+	"no_antialiasing": false,
+	"image": "characters/Dilf",
+	"position": [
+		-200,
+		0
+	],
+	"healthicon": "krus",
+	"flip_x": false,
+	"healthbar_colors": [
+		0,
+		0,
+		0
+	],
+	"camera_position": [
+		-120,
+		-150
+	],
+	"sing_duration": 6.1,
+	"scale": 1.4
+}

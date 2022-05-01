@@ -1,0 +1,196 @@
+{
+	"dialogue": [
+		{
+			"expression": "talk",
+			"text": "After BF's fight with Selever, he somehow manages to survive, and slip into a portal..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "gf"
+		},
+		{
+			"expression": "talk",
+			"text": "Throwing him into the nothing world...",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.07,
+			"portrait": "gf"
+		},
+		{
+			"expression": "genuine",
+			"text": "welcomeback;Oh! Welcome back Sav-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "shocked",
+			"text": "B-beep!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.04,
+			"portrait": "bf"
+		},
+		{
+			"expression": "hm",
+			"text": "rschhuh;Huh?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "peeved",
+			"text": "krusVoice1;What the-",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "confused",
+			"text": "Beep boop.. Bababoop..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "confused",
+			"text": "B-bap..! ",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "poker",
+			"text": "krusVoice2;Wait.. You're the kid who rap battled my son.. How did you get here?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep boop. Bap bap bop. Skedoop bap.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "poker",
+			"text": "midget;..You understand this Midget?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "rschport"
+		},
+		{
+			"expression": "confused",
+			"text": "Bap.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "poker",
+			"text": "krusVoice3;Well, yes.. But anyways..",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "concern",
+			"text": "krusVoice4;You're not suppose to be here.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "concern",
+			"text": "krusVoice5;Sigh.. I'm assuming my.. Mischievious grandson is the one that sent you here, hm?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.055,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep skedoop.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "poker",
+			"text": "krusVoice6;Ah, well.. Unfortunately we can't bring you back to your world. Only our grandkids can.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "poker",
+			"text": "krusVoice7;So.. You'll just have to wait until they come back.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "excited",
+			"text": "Beep boboboop.. Beep bap!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.035,
+			"portrait": "bf"
+		},
+		{
+			"expression": "concern",
+			"text": "krusVoice8;You.. Want me to 'rap' with you? Don't you just mean singing?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "talk",
+			"text": "Beep bap",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "bf"
+		},
+		{
+			"expression": "poker",
+			"text": "krusVoice9;Huh, i'm not quite familiar with that word yet.. But.",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "poker",
+			"text": "krusVoice10;Can you show us how it's done?",
+			"boxState": "normal",
+			"sound": "",
+			"speed": 0.05,
+			"portrait": "krusport"
+		},
+		{
+			"expression": "excited",
+			"text": "BOP!",
+			"boxState": "angry",
+			"sound": "",
+			"speed": 0.03,
+			"portrait": "bf"
+		}
+	]
+}
